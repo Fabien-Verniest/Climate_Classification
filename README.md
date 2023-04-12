@@ -1,2 +1,2 @@
 # Climate_Classification
-Compute the Köppen-Geiger climate classification from monthly temperature and precipitations
+An R script that generates a Köppen-Geiger climate classification in a raster format from monthly temperature and precipitations
