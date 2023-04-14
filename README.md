@@ -5,6 +5,8 @@ An R function that generates a **Köppen-Geiger climate classification** in a ra
 Monthly mean temperature (in Degrees Celsius) and precipitations (in millimetres), provided in a **raster format**. 
 
 ### Arguments
+Classi.KG(*Temp*, *Prec*, *level* = 3)
+
 - *Temp*: a list of the 12 rasters of temperature (ranked from January to December)
 - *Prec*: a list of the 12 rasters of precipitations (ranked from January to December)
 - *level*: 1, 2 or 3 (3 by default). Level of Köppen-Geiger climate classification.
