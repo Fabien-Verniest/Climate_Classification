@@ -69,4 +69,4 @@ A raster with each integer corresponding to a single climate class:
 - 520: EF
 
 ### Version of the Köppen-Geiger classification
-This function uses the Köppen-Geiger classification provided by Peel *et al.* (2007): https://hess.copernicus.org/articles/11/1633/2007/
+This function uses the Köppen-Geiger classification provided by [Peel *et al.* (2007)](https://hess.copernicus.org/articles/11/1633/2007/)
